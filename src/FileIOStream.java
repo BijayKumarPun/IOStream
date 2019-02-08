@@ -27,17 +27,17 @@ int c;
             e.printStackTrace();
         }
 
-    int d ;
-        try{
-            while ((d = fileInputStreamFile.read()) != -1) {
-                System.out.println(((char) d));
-
-            }
-
-
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+//    int d ;
+//        try{
+//            while ((d = fileInputStreamFile.read()) != -1) {
+//                System.out.println(((char) d));
+//
+//            }
+//
+//
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
 
     }
 
